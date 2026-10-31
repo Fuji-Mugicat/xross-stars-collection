@@ -1,119 +1,119 @@
-card_no,name,color,type,cost,rarity,set,leader_or_build_rule,atk,hp,awaken_atk,awaken_hp,effect
-BP05-001/080,秋雪こはく,赤,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】自分のリーダー1体を20回復する。
-BP05-002/080,Selly (IGV),赤,LEADER,,LR,BP05,,30,100,40,130,【覚醒時】対戦相手のリーダーすべてに10ダメージ。
-BP05-003/080,dtto.,赤,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】カードを2枚引き、手札を2枚捨てる。
-BP05-004/080,LEO,赤,LEADER,,LR,BP05,,30,100,40,130,【覚醒時】対戦相手のリーダー1体に20ダメージ。
-BP05-005/080,碧依さくら,青,LEADER,,LR,BP05,,30,100,40,130,【覚醒時】対戦相手のリーダー1体に20ダメージ。
-BP05-006/080,Kamito (IGV),青,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】カードを2枚引き、手札を2枚捨てる。
-BP05-007/080,渋谷ハル (IGV),青,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】自分のリーダー1体を20回復する。
-BP05-008/080,tttcheekyttt,青,LEADER,,LR,BP05,,30,100,40,130,【覚醒時】カードを1枚引く。
-BP05-009/080,神成きゅぴ (IGV),黄,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】自分のリーダー1体を20回復する。
-BP05-010/080,胡桃のあ (IGV),黄,LEADER,,LR,BP05,,30,100,40,130,【覚醒時】カードを1枚引く。
-BP05-011/080,Cpt (IGV),黄,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】カードを2枚引き、手札を2枚捨てる。
-BP05-012/080,Ras (IGV),黄,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】対戦相手のリーダー1体に10ダメージ。
-BP05-013/080,Arya Kuroha,緑,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】カードを2枚引き、手札を2枚捨てる。
-BP05-014/080,花芽すみれ (IGV),緑,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】自分のリーダー1体を20回復する。
-BP05-015/080,Zeder,緑,LEADER,,LR,BP05,,30,100,40,130,【覚醒時】カードを1枚引く。
-BP05-016/080,ハセシン,緑,LEADER,,LR,BP05,,30,110,40,140,【覚醒時】対戦相手のリーダー1体に10ダメージ。
-BP05-017/080,デュアルハザード,赤,ATTACK/ACE,1,SR,BP05,,,,,,【アタックする】アタッカーがダメージを受けているなら、ダメージ+40。アタッカーの残り体力が10なら、さらにダメージ+40。
-BP05-018/080,エレガントドミネート,赤,ATTACK,1,UC,BP05,赤のリーダー3体以上,,,,,"【アタックする】
+card_no,name,color,type,cost,rarity,set,leader_or_build_rule,atk,hp,awaken_atk,awaken_hp,image_url,awaken_image_url,effect
+BP05-001/080,秋雪こはく,赤,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-001_263a52143e6fa7c03a71a23db792ee1a.png,https://assets.xross-stars.com/card/BP05/BP05-001_345a84e8092f3d101d088af99648224f.png,【覚醒時】自分のリーダー1体を20回復する。
+BP05-002/080,Selly (IGV),赤,LEADER,,LR,BP05,,30,100,40,130,https://assets.xross-stars.com/card/BP05/BP05-002_446898f62b1d38926946b0943c23d314.png,https://assets.xross-stars.com/card/BP05/BP05-002_1fee3522a0daea76288d49aae9aab3e0.png,【覚醒時】対戦相手のリーダーすべてに10ダメージ。
+BP05-003/080,dtto.,赤,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-003_56373d56260218099eba6cb4160e92d9.png,https://assets.xross-stars.com/card/BP05/BP05-003_19c0efaccd13e96964b7e31fda213c3e.png,【覚醒時】カードを2枚引き、手札を2枚捨てる。
+BP05-004/080,LEO,赤,LEADER,,LR,BP05,,30,100,40,130,https://assets.xross-stars.com/card/BP05/BP05-004_4f29c92a6b326d792ff9d70b760f7f03.png,https://assets.xross-stars.com/card/BP05/BP05-004_ea1cc3b39891fa9b3680dfba7c297bd2.png,【覚醒時】対戦相手のリーダー1体に20ダメージ。
+BP05-005/080,碧依さくら,青,LEADER,,LR,BP05,,30,100,40,130,https://assets.xross-stars.com/card/BP05/BP05-005_ce300927cff27f7f6359f217bbc1fec2.png,https://assets.xross-stars.com/card/BP05/BP05-005_d3df86d007d32d936099889f65794baf.png,【覚醒時】対戦相手のリーダー1体に20ダメージ。
+BP05-006/080,Kamito (IGV),青,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-006_0cac16032a6c5466e0ce14733d50c9a1.png,https://assets.xross-stars.com/card/BP05/BP05-006_42d25c6dbfc7a3cc2c7e8e2706badf71.png,【覚醒時】カードを2枚引き、手札を2枚捨てる。
+BP05-007/080,渋谷ハル (IGV),青,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-007_e1158287b32aa3070478c90d9d641b6b.png,https://assets.xross-stars.com/card/BP05/BP05-007_3487f5ffc6d11e0d1717d826901912b2.png,【覚醒時】自分のリーダー1体を20回復する。
+BP05-008/080,tttcheekyttt,青,LEADER,,LR,BP05,,30,100,40,130,https://assets.xross-stars.com/card/BP05/BP05-008_647fdd434ec37c805addb181f0f072f2.png,https://assets.xross-stars.com/card/BP05/BP05-008_5cd256f63333a00f0987f48a4dd07ea9.png,【覚醒時】カードを1枚引く。
+BP05-009/080,神成きゅぴ (IGV),黄,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-009_a393c29d0b26010bd635848194c182e7.png,https://assets.xross-stars.com/card/BP05/BP05-009_5bfbb3448fd10f19de140dc9e892458a.png,【覚醒時】自分のリーダー1体を20回復する。
+BP05-010/080,胡桃のあ (IGV),黄,LEADER,,LR,BP05,,30,100,40,130,https://assets.xross-stars.com/card/BP05/BP05-010_62c47b432452e4bf465cf71176686745.png,https://assets.xross-stars.com/card/BP05/BP05-010_59b92275867027156e730513f095a6b7.png,【覚醒時】カードを1枚引く。
+BP05-011/080,Cpt (IGV),黄,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-011_fec6067171064536be4044ef87d8709d.png,https://assets.xross-stars.com/card/BP05/BP05-011_15c9f0a32380fc0add1d13b597fc58f7.png,【覚醒時】カードを2枚引き、手札を2枚捨てる。
+BP05-012/080,Ras (IGV),黄,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-012_25d11fd9a54665a80f72af815a82e2d6.png,https://assets.xross-stars.com/card/BP05/BP05-012_681d84609855df5659a3ddf2785b9da2.png,【覚醒時】対戦相手のリーダー1体に10ダメージ。
+BP05-013/080,Arya Kuroha,緑,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-013_8515b63c18eb8bef87c4de1fb9a90ec9.png,https://assets.xross-stars.com/card/BP05/BP05-013_91b5b07fc8702bea38a057e0d5d1fd13.png,【覚醒時】カードを2枚引き、手札を2枚捨てる。
+BP05-014/080,花芽すみれ (IGV),緑,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-014_4f2b9fb045f426a3e03d31337bc2e1fc.png,https://assets.xross-stars.com/card/BP05/BP05-014_0d6d588b5f6267da26916519f3641c4c.png,【覚醒時】自分のリーダー1体を20回復する。
+BP05-015/080,Zeder,緑,LEADER,,LR,BP05,,30,100,40,130,https://assets.xross-stars.com/card/BP05/BP05-015_c5c70e91c5e26b9c5a2e1fd0d90ac4c6.png,https://assets.xross-stars.com/card/BP05/BP05-015_8b939455a3c22d09c5ad0c3ff101af78.png,【覚醒時】カードを1枚引く。
+BP05-016/080,ハセシン,緑,LEADER,,LR,BP05,,30,110,40,140,https://assets.xross-stars.com/card/BP05/BP05-016_6a4f796347c8e965798f21de6bac1c65.png,https://assets.xross-stars.com/card/BP05/BP05-016_266704a87636b5029c8ed10bf42f60b4.png,【覚醒時】対戦相手のリーダー1体に10ダメージ。
+BP05-017/080,デュアルハザード,赤,ATTACK/ACE,1,SR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-017_7a74e8fed8128c512485fc9a1e38e134.png,,【アタックする】アタッカーがダメージを受けているなら、ダメージ+40。アタッカーの残り体力が10なら、さらにダメージ+40。
+BP05-018/080,エレガントドミネート,赤,ATTACK,1,UC,BP05,赤のリーダー3体以上,,,,,https://assets.xross-stars.com/card/BP05/BP05-018_39df43a9bd08e558d5435bf582997a44.png,,"【アタックする】
 【アタック後】対戦相手の他のリーダー1体に20ダメージ。"
-BP05-019/080,恐怖の一突き,赤,ATTACK,1,C,BP05,,,,,,"【アタックする】
+BP05-019/080,恐怖の一突き,赤,ATTACK,1,C,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-019_45a5c49307134c127bcec2b8bf4719ed.png,,"【アタックする】
 【アタック後】プレイエリアにコスト2のカードがあるなら、対戦相手の他のリーダー1体に20ダメージ。"
-BP05-020/080,対空射撃,赤,ATTACK,1,C,BP05,リーダー：秋雪こはく,,,,,【アタックする】自分の手札のコスト0のカード1枚を公開し、捨ててもよい。そうしたならカードを1枚引き、ダメージ+20。
-BP05-021/080,ナイスキャッチ！,赤,ATTACK,1,UC,BP05,リーダー：Selly (IGV),,,,,"【アタックする】
+BP05-020/080,対空射撃,赤,ATTACK,1,C,BP05,リーダー：秋雪こはく,,,,,https://assets.xross-stars.com/card/BP05/BP05-020_94f108fdaef03b93ce0258b07d216b86.png,,【アタックする】自分の手札のコスト0のカード1枚を公開し、捨ててもよい。そうしたならカードを1枚引き、ダメージ+20。
+BP05-021/080,ナイスキャッチ！,赤,ATTACK,1,UC,BP05,リーダー：Selly (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-021_beb94f81301c2c900755ee686896f98c.png,,"【アタックする】
 【アタック後】このアタックを受けたリーダーがダウンしているなら、カードを1枚引く。"
-BP05-022/080,ワンマガジンワンキル,赤,ATTACK,1,C,BP05,リーダー：dtto.,,,,,【アタックする】ダメージ+10。
-BP05-023/080,デアデビルラッシュ,赤,ATTACK,1,R,BP05,リーダー：LEO,,,,,"【プレイ時】プレイエリアに他のカードがないなら、PPを1回復する。
+BP05-022/080,ワンマガジンワンキル,赤,ATTACK,1,C,BP05,リーダー：dtto.,,,,,https://assets.xross-stars.com/card/BP05/BP05-022_1188f25c9eacc28c0e5a3a83dadf7390.png,,【アタックする】ダメージ+10。
+BP05-023/080,デアデビルラッシュ,赤,ATTACK,1,R,BP05,リーダー：LEO,,,,,https://assets.xross-stars.com/card/BP05/BP05-023_f055295469135ec91e966d852710a21f.png,,"【プレイ時】プレイエリアに他のカードがないなら、PPを1回復する。
 【アタックする】ダメージ-10。"
-BP05-024/080,アブソリュートドミニオン,青,ATTACK/ACE,1,SR,BP05,,,,,,"【アタックする】
+BP05-024/080,アブソリュートドミニオン,青,ATTACK/ACE,1,SR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-024_2671dcd0069b78c544eb3b4679e2a4d1.png,,"【アタックする】
 【アタック後】自分のデッキの上から5枚を見る。その中からコスト0のメモリアカードを最大3枚公開し、手札に加える。残りのカードをトラッシュに置く。"
-BP05-025/080,フラッシュバン,青,ATTACK,1,UC,BP05,青のリーダー3体以上,,,,,"【アタックする】
+BP05-025/080,フラッシュバン,青,ATTACK,1,UC,BP05,青のリーダー3体以上,,,,,https://assets.xross-stars.com/card/BP05/BP05-025_d619714013a168416bef47cf4f00af56.png,,"【アタックする】
 【アタック後】対戦相手の他のリーダー1体に20ダメージ。"
-BP05-026/080,パーフェクトクローザー,青,ATTACK,1,C,BP05,,,,,,【アタックする】アタッカーが覚醒しているなら、ダメージ+10。
-BP05-027/080,撃破確認,青,ATTACK,1,UC,BP05,リーダー：碧依さくら,,,,,"【アタックする】
+BP05-026/080,パーフェクトクローザー,青,ATTACK,1,C,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-026_f8435547c2c02027b486da29ee958642.png,,【アタックする】アタッカーが覚醒しているなら、ダメージ+10。
+BP05-027/080,撃破確認,青,ATTACK,1,UC,BP05,リーダー：碧依さくら,,,,,https://assets.xross-stars.com/card/BP05/BP05-027_1a82bc02cb85b939056a67e6785fbede.png,,"【アタックする】
 【アタック後】このアタックを受けたリーダーがダウンしているなら、カードを1枚引く。"
-BP05-028/080,エクスキューショナー,青,ATTACK,1,R,BP05,リーダー：Kamito (IGV),,,,,【アタックする】ダメージ+10。
-BP05-029/080,火力は十分,青,ATTACK,1,C,BP05,リーダー：渋谷ハル (IGV),,,,,"【アタックする】
+BP05-028/080,エクスキューショナー,青,ATTACK,1,R,BP05,リーダー：Kamito (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-028_51057bcbabdd3225580e02dba097a047.png,,【アタックする】ダメージ+10。
+BP05-029/080,火力は十分,青,ATTACK,1,C,BP05,リーダー：渋谷ハル (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-029_d29125e274d3da704c451fae8c13ffd7.png,,"【アタックする】
 【アタック後】プレイエリアにメモリアカードが2枚以上あるなら、対戦相手の他のリーダー1体に20ダメージ。"
-BP05-030/080,ダークリープ,青,ATTACK,1,C,BP05,リーダー：tttcheekyttt,,,,,"【アタックする】
+BP05-030/080,ダークリープ,青,ATTACK,1,C,BP05,リーダー：tttcheekyttt,,,,,https://assets.xross-stars.com/card/BP05/BP05-030_3af563d49cd5081de3a405df356c213d.png,,"【アタックする】
 【アタック後】このアタックを受けたリーダーがダウンしているなら、対戦相手は手札を1枚捨てる。"
-BP05-031/080,ダブルダウン,黄,ATTACK/ACE,2,SR,BP05,,,,,,"【アタックする】
+BP05-031/080,ダブルダウン,黄,ATTACK/ACE,2,SR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-031_a361ac610f8b9a5e7f0e91f8d62251d5.png,,"【アタックする】
 【アタック後】プレイエリアにメモリアカードが2枚以上あるなら、対戦相手の他のリーダー1体に100ダメージ。"
-BP05-032/080,ヴェノムスモーク,黄,ATTACK,1,UC,BP05,黄のリーダー3体以上,,,,,"【アタックする】
+BP05-032/080,ヴェノムスモーク,黄,ATTACK,1,UC,BP05,黄のリーダー3体以上,,,,,https://assets.xross-stars.com/card/BP05/BP05-032_020a39ffe98b429ff27da2995ba4f9e9.png,,"【アタックする】
 【アタック後】対戦相手の他のリーダーすべてに10ダメージ。"
-BP05-033/080,決闘開始,黄,ATTACK,2,C,BP05,,,,,,【アタックする】ダメージ+40。
-BP05-034/080,ジャンプスケア,黄,ATTACK,1,UC,BP05,リーダー：神成きゅぴ (IGV),,,,,"【アタックする】
+BP05-033/080,決闘開始,黄,ATTACK,2,C,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-033_f3983d975578cf11f0bde906e85688e8.png,,【アタックする】ダメージ+40。
+BP05-034/080,ジャンプスケア,黄,ATTACK,1,UC,BP05,リーダー：神成きゅぴ (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-034_ab7d4400a836c4c74a963eaca1f985ab.png,,"【アタックする】
 【アタック後】オーバーキル10：対戦相手の他のリーダー1体に30ダメージ。（このアタックを受けたリーダーに、そのリーダーの残り体力よりも10以上大きいダメージを与えていたなら、対戦相手の他のリーダー1体に30ダメージ。）"
-BP05-035/080,レイジングスラッシュ,黄,ATTACK,1,R,BP05,リーダー：胡桃のあ (IGV),,,,,【アタックする】手札を1枚ランダムに捨ててもよい。そうしたならダメージ+30。
-BP05-036/080,ミスショット,黄,ATTACK,1,C,BP05,リーダー：Cpt (IGV),,,,,【アタックする】ダメージ+10。
-BP05-037/080,バックワードショット,黄,ATTACK,1,C,BP05,リーダー：Ras (IGV),,,,,"【アタックする】
+BP05-035/080,レイジングスラッシュ,黄,ATTACK,1,R,BP05,リーダー：胡桃のあ (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-035_ae98cee97e763095bc4c677de49154d8.png,,【アタックする】手札を1枚ランダムに捨ててもよい。そうしたならダメージ+30。
+BP05-036/080,ミスショット,黄,ATTACK,1,C,BP05,リーダー：Cpt (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-036_fa7bbb52f27903b1eb5c9f41c9f63bc2.png,,【アタックする】ダメージ+10。
+BP05-037/080,バックワードショット,黄,ATTACK,1,C,BP05,リーダー：Ras (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-037_8d80bab6ee1ddfbd81c811d0bbcbc130.png,,"【アタックする】
 【アタック後】オーバーキル30：対戦相手の他のリーダー1体に50ダメージ。（このアタックを受けたリーダーに、そのリーダーの残り体力よりも30以上大きいダメージを与えていたなら、対戦相手の他のリーダー1体に50ダメージ。）"
-BP05-038/080,頂点捕食者,緑,ATTACK/ACE,1,SR,BP05,,,,,,"【アタックする】
+BP05-038/080,頂点捕食者,緑,ATTACK/ACE,1,SR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-038_1ec89e1d0fe68512a1802681a431e64a.png,,"【アタックする】
 【アタック後】自分の手札のカードを、コストの合計が2以上になるように好きな枚数公開し、捨ててもよい。そうしたなら自分のデッキの上から4枚を見る。その中からコスト2以下の「頂点捕食者」以外のアタックカード1枚を、コストを支払わずにプレイしてもよい。残りのカードをトラッシュに置く。（プレイしたカードの効果は、このアタックが終わってから実行する。）"
-BP05-039/080,クレイジーバースト,緑,ATTACK,1,UC,BP05,緑のリーダー3体以上,,,,,"【アタックする】
+BP05-039/080,クレイジーバースト,緑,ATTACK,1,UC,BP05,緑のリーダー3体以上,,,,,https://assets.xross-stars.com/card/BP05/BP05-039_face61c25c1f6b25424cceff2e7b62c4.png,,"【アタックする】
 【アタック後】対戦相手の他のリーダーすべてに10ダメージ。"
-BP05-040/080,怒涛の勢い,緑,ATTACK,2,C,BP05,,,,,,【アタックする】プレイエリアにメモリアカードが2枚以上あるなら、ダメージ+50。
-BP05-041/080,コールドスモーカー,緑,ATTACK,1,UC,BP05,リーダー：Arya Kuroha,,,,,【アタックする】ダメージ+10。
-BP05-042/080,ブライトホーリー,緑,ATTACK,1,R,BP05,リーダー：花芽すみれ (IGV),,,,,"【アタックする】
+BP05-040/080,怒涛の勢い,緑,ATTACK,2,C,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-040_6491f6e5f90ad7529f032e20b2a2c966.png,,【アタックする】プレイエリアにメモリアカードが2枚以上あるなら、ダメージ+50。
+BP05-041/080,コールドスモーカー,緑,ATTACK,1,UC,BP05,リーダー：Arya Kuroha,,,,,https://assets.xross-stars.com/card/BP05/BP05-041_0e843e86f478f10ee676e6ba5cd5fe8d.png,,【アタックする】ダメージ+10。
+BP05-042/080,ブライトホーリー,緑,ATTACK,1,R,BP05,リーダー：花芽すみれ (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-042_f6eb901be5c4a0b33e3e7110144063e6.png,,"【アタックする】
 【アタック後】プレイエリアにメモリアカードが2枚以上あるなら、対戦相手の他のリーダーすべてに10ダメージ。"
-BP05-043/080,二天一流,緑,ATTACK,1,C,BP05,リーダー：Zeder,,,,,"【アタックする】
+BP05-043/080,二天一流,緑,ATTACK,1,C,BP05,リーダー：Zeder,,,,,https://assets.xross-stars.com/card/BP05/BP05-043_be3537c11275e9a0c99150eb18144d86.png,,"【アタックする】
 【アタック後】このアタックを受けたリーダーがダウンしているなら、対戦相手の他のリーダー1体に20ダメージ。"
-BP05-044/080,ロングレンジスナイプ,緑,ATTACK,1,C,BP05,リーダー：ハセシン,,,,,"【アタックする】
+BP05-044/080,ロングレンジスナイプ,緑,ATTACK,1,C,BP05,リーダー：ハセシン,,,,,https://assets.xross-stars.com/card/BP05/BP05-044_c8bf0221699e82edb104b077b41a520d.png,,"【アタックする】
 【アタック後】対戦相手の他のリーダー1体に20ダメージ。アタッカーに20ダメージ。このダメージによってアタッカーがダウンするなら、代わりに残り体力を10にする。"
-BP05-045/080,共に至る極致,赤,MEMORIA/ACE,1,SR,BP05,,,,,,"【プレイ時】自分の体力40以上のリーダー1体に30ダメージを与えてもよい。そうしたなら、カードを2枚引く。
+BP05-045/080,共に至る極致,赤,MEMORIA/ACE,1,SR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-045_ef1b66dcfd7013da767f5165837e5785.png,,"【プレイ時】自分の体力40以上のリーダー1体に30ダメージを与えてもよい。そうしたなら、カードを2枚引く。
 【アタック強化】次のアタックのダメージ+50。"
-BP05-046/080,ナイトウォーカー,赤,MEMORIA,1,UC,BP05,,,,,,【アタック強化】次のアタックのダメージ+50。
-BP05-047/080,最後の祈り,赤,MEMORIA,1,C,BP05,,,,,,"【プレイ時】カードを2枚引き、手札を2枚捨てる。
+BP05-046/080,ナイトウォーカー,赤,MEMORIA,1,UC,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-046_eddfa0f39eadec25f177bdea2bbbeb56.png,,【アタック強化】次のアタックのダメージ+50。
+BP05-047/080,最後の祈り,赤,MEMORIA,1,C,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-047_876fe5675f40508de34474bc986dccb4.png,,"【プレイ時】カードを2枚引き、手札を2枚捨てる。
 【アタック強化】次のアタックのダメージ+30。"
-BP05-048/080,超大型新人,赤,MEMORIA,0,R,BP05,リーダー：秋雪こはく,,,,,【プレイ時】対戦相手のリーダー1体に20ダメージ。
-BP05-049/080,忍び寄る影,赤,MEMORIA,1,C,BP05,リーダー：Selly (IGV),,,,,"【アタック強化】次のアタックのダメージ+50。
+BP05-048/080,超大型新人,赤,MEMORIA,0,R,BP05,リーダー：秋雪こはく,,,,,https://assets.xross-stars.com/card/BP05/BP05-048_3b5aa65e62ded7fedfd55486e802e9c4.png,,【プレイ時】対戦相手のリーダー1体に20ダメージ。
+BP05-049/080,忍び寄る影,赤,MEMORIA,1,C,BP05,リーダー：Selly (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-049_77ac67f099e4cea66e6a44042739ef2e.png,,"【アタック強化】次のアタックのダメージ+50。
 【アタック後】プレイエリアにメモリアカードが3枚以上あるなら、対戦相手の他のリーダー1体に20ダメージ。"
-BP05-050/080,労働は義務です,赤,MEMORIA,1,UC,BP05,リーダー：dtto.,,,,,"【アタック強化】次のアタックのダメージ+50。
+BP05-050/080,労働は義務です,赤,MEMORIA,1,UC,BP05,リーダー：dtto.,,,,,https://assets.xross-stars.com/card/BP05/BP05-050_7a72eb80485cbc12bafb599d8e08e18f.png,,"【アタック強化】次のアタックのダメージ+50。
 【アタック後】対戦相手の他のリーダー1体に10ダメージ。"
-BP05-051/080,ショッピングスプリー,赤,MEMORIA,1,C,BP05,リーダー：LEO,,,,,【アタック強化】次のアタックのダメージ+60。
-BP05-052/080,ヴァリアブルピック,青,MEMORIA/ACE,2,SR,BP05,,,,,,【プレイ時】対戦相手は手札を2枚捨てる。対戦相手のリーダー最大2体に30ダメージ。
-BP05-053/080,名誉の出禁,青,MEMORIA,1,UC,BP05,,,,,,【アタック強化】次のアタックのダメージ+50。
-BP05-054/080,インプレッシブコール,青,MEMORIA,1,C,BP05,,,,,,【アタック強化】次のアタックのダメージ+40。アタッカーがカードを装備しているなら、さらにダメージ+20。（装備は【アタック強化】を実行するときに確認する。）
-BP05-055/080,閉会の挨拶,青,MEMORIA,1,UC,BP05,リーダー：碧依さくら,,,,,"【アタック強化】次のアタックのダメージ+50。
+BP05-051/080,ショッピングスプリー,赤,MEMORIA,1,C,BP05,リーダー：LEO,,,,,https://assets.xross-stars.com/card/BP05/BP05-051_36e90c13a3edfef8695283fd3a10ee0f.png,,【アタック強化】次のアタックのダメージ+60。
+BP05-052/080,ヴァリアブルピック,青,MEMORIA/ACE,2,SR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-052_5b5460f5c8b9345f685cfe72ae4e31c2.png,,【プレイ時】対戦相手は手札を2枚捨てる。対戦相手のリーダー最大2体に30ダメージ。
+BP05-053/080,名誉の出禁,青,MEMORIA,1,UC,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-053_8de334e25ee5310071252134e1d0f515.png,,【アタック強化】次のアタックのダメージ+50。
+BP05-054/080,インプレッシブコール,青,MEMORIA,1,C,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-054_fda4ee2964e79775577c3314dced81d4.png,,【アタック強化】次のアタックのダメージ+40。アタッカーがカードを装備しているなら、さらにダメージ+20。（装備は【アタック強化】を実行するときに確認する。）
+BP05-055/080,閉会の挨拶,青,MEMORIA,1,UC,BP05,リーダー：碧依さくら,,,,,https://assets.xross-stars.com/card/BP05/BP05-055_68de7e186bdf4482b67f5ab0ec4da1f5.png,,"【アタック強化】次のアタックのダメージ+50。
 【アタック後】対戦相手の他のリーダー1体に10ダメージ。"
-BP05-056/080,稀代の軍師,青,MEMORIA,1,C,BP05,リーダー：Kamito (IGV),,,,,"【プレイ時】対戦相手は手札を1枚捨てる。
+BP05-056/080,稀代の軍師,青,MEMORIA,1,C,BP05,リーダー：Kamito (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-056_0d0cd1a526b6c6efd34f035ead140a1d.png,,"【プレイ時】対戦相手は手札を1枚捨てる。
 【アタック強化】次のアタックのダメージ+30。"
-BP05-057/080,臆病な戦略,青,MEMORIA,1,C,BP05,リーダー：渋谷ハル (IGV),,,,,"【プレイ時】プレイエリアにアタックカードが1枚以上あるなら、カードを1枚引く。
+BP05-057/080,臆病な戦略,青,MEMORIA,1,C,BP05,リーダー：渋谷ハル (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-057_78882c77e7e25f5a20bc13c683f84dcd.png,,"【プレイ時】プレイエリアにアタックカードが1枚以上あるなら、カードを1枚引く。
 【アタック強化】次のアタックのダメージ+40。"
-BP05-058/080,トレンドリーダー,青,MEMORIA,0,R,BP05,リーダー：tttcheekyttt,,,,,【プレイ時】対戦相手のリーダー1体に20ダメージ。
-BP05-059/080,魔王再臨,黄,MEMORIA/ACE,0,SR,BP05,,,,,,"【プレイ時】カードを1枚引く。
+BP05-058/080,トレンドリーダー,青,MEMORIA,0,R,BP05,リーダー：tttcheekyttt,,,,,https://assets.xross-stars.com/card/BP05/BP05-058_c59427ebf10c7fe7570be09cf8a461a0.png,,【プレイ時】対戦相手のリーダー1体に20ダメージ。
+BP05-059/080,魔王再臨,黄,MEMORIA/ACE,0,SR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-059_9c3672a1e5f4ce471745ff5545457a08.png,,"【プレイ時】カードを1枚引く。
 エコー（自分のターン終了時、このカードが縦向きならトラッシュに置く代わりに、横向きにする。自分のメインフェイズ開始時、このカードが横向きならコストを支払わずに、横向きのままプレイし直す。）"
-BP05-060/080,ブロードキャスティング,黄,MEMORIA,1,UC,BP05,,,,,,【アタック強化】次のアタックのダメージ+50。
-BP05-061/080,キャプテンズ・リターン,黄,MEMORIA,1,C,BP05,,,,,,【プレイ時】自分の手札のコスト3以下のカード1枚を公開してもよい。そうしたなら、公開したカードのコストと同じ数のカードを引く。
-BP05-062/080,起死回生,黄,MEMORIA,1,R,BP05,リーダー：神成きゅぴ (IGV),,,,,【アタック強化】次のアタックのダメージ+60。
-BP05-063/080,ミッドナイトトーク,黄,MEMORIA,1,C,BP05,リーダー：胡桃のあ (IGV),,,,,"【プレイ時】プレイエリアにアタックカードが1枚以上あるなら、カードを1枚引く。
+BP05-060/080,ブロードキャスティング,黄,MEMORIA,1,UC,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-060_4be1d9f507fb2ff9dfe174d8ac8727c3.png,,【アタック強化】次のアタックのダメージ+50。
+BP05-061/080,キャプテンズ・リターン,黄,MEMORIA,1,C,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-061_e12f0780592c5079d053bea67a288fcc.png,,【プレイ時】自分の手札のコスト3以下のカード1枚を公開してもよい。そうしたなら、公開したカードのコストと同じ数のカードを引く。
+BP05-062/080,起死回生,黄,MEMORIA,1,R,BP05,リーダー：神成きゅぴ (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-062_ec38c54b34de9304eb976fbf3929ae16.png,,【アタック強化】次のアタックのダメージ+60。
+BP05-063/080,ミッドナイトトーク,黄,MEMORIA,1,C,BP05,リーダー：胡桃のあ (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-063_06e0d3baa593e022e756cac26fb54f32.png,,"【プレイ時】プレイエリアにアタックカードが1枚以上あるなら、カードを1枚引く。
 【アタック強化】次のアタックのダメージ+40。"
-BP05-064/080,Cap-chicken,黄,MEMORIA,0,C,BP05,リーダー：Cpt (IGV),,,,,【アタック後】カードを1枚引く。
-BP05-065/080,ハイプライン,黄,MEMORIA,1,UC,BP05,リーダー：Ras (IGV),,,,,"【プレイ時】カードを1枚引く。
+BP05-064/080,Cap-chicken,黄,MEMORIA,0,C,BP05,リーダー：Cpt (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-064_bcf76c210cb4f1b6d961fe65a57a45c1.png,,【アタック後】カードを1枚引く。
+BP05-065/080,ハイプライン,黄,MEMORIA,1,UC,BP05,リーダー：Ras (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-065_0b2d518b513c79fc54dce81d22c0a205.png,,"【プレイ時】カードを1枚引く。
 【アタック強化】次のアタックのダメージ+30。"
-BP05-066/080,ハセシンの刑執行,緑,MEMORIA/ACE,1,SR,BP05,,,,,,"【アタック強化】次のアタックのダメージ+20。
+BP05-066/080,ハセシンの刑執行,緑,MEMORIA/ACE,1,SR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-066_1f8e2e7caeb02b97939edba86c473c3c.png,,"【アタック強化】次のアタックのダメージ+20。
 【アタック後】対戦相手の他のリーダーすべてに10ダメージ。
 エコー（自分のターン終了時、このカードが縦向きならトラッシュに置く代わりに、横向きにする。自分のメインフェイズ開始時、このカードが横向きならコストを支払わずに、横向きのままプレイし直す。）"
-BP05-067/080,精一杯の声援,緑,MEMORIA,1,UC,BP05,,,,,,【アタック強化】次のアタックのダメージ+50。
-BP05-068/080,二連覇の称号,緑,MEMORIA,0,C,BP05,,,,,,"【プレイ時】自分のリーダー1体を10回復する。
+BP05-067/080,精一杯の声援,緑,MEMORIA,1,UC,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-067_a0c6bc565b0482f1459007499114486b.png,,【アタック強化】次のアタックのダメージ+50。
+BP05-068/080,二連覇の称号,緑,MEMORIA,0,C,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-068_941e5fc7d0ca64768911d2800d7f3a1a.png,,"【プレイ時】自分のリーダー1体を10回復する。
 【アタック強化】次のアタックのダメージ+10。"
-BP05-069/080,伝えたい想い,緑,MEMORIA,1,C,BP05,リーダー：Arya Kuroha,,,,,【アタック強化】次のアタックのダメージ+60。
-BP05-070/080,ハイリスク・ハイリターン,緑,MEMORIA,0,C,BP05,リーダー：花芽すみれ (IGV),,,,,【アタック後】カードを1枚引く。
-BP05-071/080,異文化交流,緑,MEMORIA,1,R,BP05,リーダー：Zeder,,,,,"【アタック強化】次のアタックのダメージ+30。
+BP05-069/080,伝えたい想い,緑,MEMORIA,1,C,BP05,リーダー：Arya Kuroha,,,,,https://assets.xross-stars.com/card/BP05/BP05-069_257f56c8a7dc336a13bc7e4c361be317.png,,【アタック強化】次のアタックのダメージ+60。
+BP05-070/080,ハイリスク・ハイリターン,緑,MEMORIA,0,C,BP05,リーダー：花芽すみれ (IGV),,,,,https://assets.xross-stars.com/card/BP05/BP05-070_2e188de4e2c1368333978659ebef9471.png,,【アタック後】カードを1枚引く。
+BP05-071/080,異文化交流,緑,MEMORIA,1,R,BP05,リーダー：Zeder,,,,,https://assets.xross-stars.com/card/BP05/BP05-071_1e07cd18c2c822bd515842c9b7d43c41.png,,"【アタック強化】次のアタックのダメージ+30。
 【アタック後】対戦相手の他のリーダー1体に30ダメージ。"
-BP05-072/080,一般通過,緑,MEMORIA,1,UC,BP05,リーダー：ハセシン,,,,,"【アタック強化】次のアタックのダメージ+50。
+BP05-072/080,一般通過,緑,MEMORIA,1,UC,BP05,リーダー：ハセシン,,,,,https://assets.xross-stars.com/card/BP05/BP05-072_2c0e10d6900470e0151b99d5595ba61c.png,,"【アタック強化】次のアタックのダメージ+50。
 【アタック後】対戦相手の他のリーダー1体に10ダメージ。"
-BP05-073/080,ライトシールド,無,TACTICS,0,TSR,BP05,,,,,,体力+30
-BP05-074/080,アイテムショップ,無,TACTICS,0,TR,BP05,,,,,,【プレイ時】自分のトラッシュの裏向きのカードすべてを自分のデッキに加え、自分のデッキをシャッフルする。カードを2枚引く。
-BP05-075/080,特殊弾,無,TACTICS,1,TR,BP05,,,,,,【アタック強化】次のアタックのダメージ+80。
-BP05-076/080,電磁スモーク,無,TACTICS,0,TUC,BP05,,,,,,"【プレイ時】カードを1枚引く。
+BP05-073/080,ライトシールド,無,TACTICS,0,TSR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-073_0a34f331d4b9cae4850dc6209aa1728e.png,,体力+30
+BP05-074/080,アイテムショップ,無,TACTICS,0,TR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-074_50b27fd2e99b83fc9203e54ae4536410.png,,【プレイ時】自分のトラッシュの裏向きのカードすべてを自分のデッキに加え、自分のデッキをシャッフルする。カードを2枚引く。
+BP05-075/080,特殊弾,無,TACTICS,1,TR,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-075_b737d111b2cfb1655365708dc15ea1de.png,,【アタック強化】次のアタックのダメージ+80。
+BP05-076/080,電磁スモーク,無,TACTICS,0,TUC,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-076_0ebf8be25233f5e18352ed5d147669e8.png,,"【プレイ時】カードを1枚引く。
 【ラウンド中】このラウンド、対戦相手のタクティクスカードのコストを+1する。
 （このカードはターン終了時にトラッシュに置かない。）"
-BP05-077/080,名誉のバッジ,無,TACTICS,0,TUC,BP05,,,,,,【プレイ時】自分のリーダー1体を覚醒させる。
-BP05-078/080,復活ビーコン,無,TACTICS,5,TUC,BP05,,,,,,"このカードのコストは1までしか下がらない。
+BP05-077/080,名誉のバッジ,無,TACTICS,0,TUC,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-077_2009541b3a6cb8d8e0e590d6c8d0f294.png,,【プレイ時】自分のリーダー1体を覚醒させる。
+BP05-078/080,復活ビーコン,無,TACTICS,5,TUC,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-078_2430e2cfcbd69a713c4e9f86b9297408.png,,"このカードのコストは1までしか下がらない。
 自分のプレイエリアのカード1枚につき、このカードのコストを-1する。
 【プレイ時】ダウンしている自分のリーダー1体を、ダウンしていない状態に戻す。そのリーダーが装備しているカードすべてを表向きにトラッシュに置く。"
-BP05-079/080,フォールダウンシールド,無,TACTICS,5,TUC,BP05,,,,,,"直前のラウンドであなたが負けているなら、このカードのコストを-5する。
+BP05-079/080,フォールダウンシールド,無,TACTICS,5,TUC,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-079_988eafe17a5457e98bd4178a7c6fc42a.png,,"直前のラウンドであなたが負けているなら、このカードのコストを-5する。
 体力+50"
-BP05-080/080,PPカード（KV）,無,TACTICS,,PP,BP05,,,,,,
+BP05-080/080,PPカード（KV）,無,TACTICS,,PP,BP05,,,,,,https://assets.xross-stars.com/card/BP05/BP05-080_ec522cd7ec89aaa5c935eeeba97743f4.png,,
