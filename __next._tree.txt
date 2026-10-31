@@ -1,3 +1,3 @@
-:HL["/xross-stars-collection/_next/static/chunks/0o0m6rj-v7zxd.css","style"]
+:HL["/xross-stars-collection/_next/static/chunks/18l1e-4g7zljp.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"OlCJNuxOC26x1JGu0kPpq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"o2jbm8-1oGPKO9wNVHzgG","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
