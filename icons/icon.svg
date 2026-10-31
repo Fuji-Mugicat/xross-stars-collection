@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <pattern id="lat" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M0 52 L52 0 M-13 13 L13 -13 M39 65 L65 39" stroke="#ffffff" stroke-opacity="0.10" stroke-width="2.5" fill="none"/>
+      <path d="M0 0 L52 52 M-13 39 L13 65 M39 -13 L65 13" stroke="#ffffff" stroke-opacity="0.10" stroke-width="2.5" fill="none"/>
+    </pattern>
+  </defs>
+  <rect width="512" height="512" fill="#0a0a0a"/>
+  <rect width="512" height="512" fill="url(#lat)"/>
+  <g transform="translate(106 106) scale(3)">
+    <path d="M50 0 L61 39 L100 50 L61 61 L50 100 L39 61 L0 50 L39 39 Z" fill="#ffffff"/>
+  </g>
+</svg>

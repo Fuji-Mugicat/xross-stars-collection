@@ -1,4 +1,4 @@
-:HL["/xross-stars-collection/_next/static/chunks/1s80vqzu80wd8.css","style"]
+:HL["/xross-stars-collection/_next/static/chunks/2vzfrr9lh2u6h.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"z4-5MSFvqbzDL4mnSpzyS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"5-ji9u_xIqDBVWBE0gZ9p","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
