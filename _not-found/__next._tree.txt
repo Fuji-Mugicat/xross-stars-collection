@@ -1,0 +1,4 @@
+:HL["/xross-stars-collection/_next/static/chunks/216l3_x1956uw.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"Q2kJqfCg6xWoapReuCk7K","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
