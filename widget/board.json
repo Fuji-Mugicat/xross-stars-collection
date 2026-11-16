@@ -1,23 +1,28 @@
 {
-  "updated": "11/16 02:07",
+  "updated": "11/16 08:52",
   "decisions": [
     {
       "title": "株式の分散判断",
-      "sub": "NVDA決算（11/17 米）通過後",
+      "sub": "NVDA決算（11/17 米）通過後、11/18に一度だけ確認",
+      "url": "https://muse.ai/thread/f250b27c-ae86-498b-8090-d7716cd97e56"
+    },
+    {
+      "title": "KLabの売却判断",
+      "sub": "3Q決算で下方修正、売却検討の条件に該当",
       "url": "https://muse.ai/thread/f250b27c-ae86-498b-8090-d7716cd97e56"
     }
   ],
   "active": [
     {
-      "title": "BP05 青ハンデス",
-      "now": 47,
-      "max": 59,
-      "url": "https://muse.ai/thread/41d9af83-d6c0-49ae-9fdc-2cee0bf7d57c"
+      "title": "OTOZASHIKI 公開予約",
+      "now": 3,
+      "max": 3,
+      "url": "https://muse.ai/thread/d04bf526-3b8b-4e96-907b-4c2c43589e8f"
     },
     {
-      "title": "ヴァリアブル賽琳",
-      "now": 49,
-      "max": 59,
+      "title": "Xross Stars カード管理",
+      "now": 161,
+      "max": 161,
       "url": "https://muse.ai/thread/41d9af83-d6c0-49ae-9fdc-2cee0bf7d57c"
     }
   ]
